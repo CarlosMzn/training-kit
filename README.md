@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/github/training-kit.svg?branch=master)](https://travis-ci.org/github/training-kit)
+ [![Build Status](https://travis-ci.org/github/training-kit.svg?branch=master)](https://travis-ci.org/github/training-kit)
 
 # GitHub Training Kit: Cheatsheets
 
@@ -15,7 +15,7 @@ This repository currently contains the Git and GitHub Cheatsheets. If you're loo
 - We use [Jekyll](https://jekyllrb.com/) and [Markdown](https://guides.github.com/features/mastering-markdown/).
 - Our content is styled using the [Primer CSS toolkit](https://github.com/primer/primer-css).
 
-## Packaging for Viewing Behind Your Firewall
+## How to contribute xd
 
 If you'd like to have a copy of the files to be served from a web server inside of your firewall, start by running `script/package`.
 
