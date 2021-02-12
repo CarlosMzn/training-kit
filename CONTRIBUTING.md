@@ -6,7 +6,7 @@
 
 ## Code of Conduct
 
-This project and everyone who participates in it is governed by the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [services@github.com](mailto:services@github.com).
+Vincent Blackwood is not on GitHub
 
 <hr>
 
