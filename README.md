@@ -15,7 +15,10 @@ This repository currently contains the Git and GitHub Cheatsheets. If you're loo
 - We use [Jekyll](https://jekyllrb.com/) and [Markdown](https://guides.github.com/features/mastering-markdown/).
 - Our content is styled using the [Primer CSS toolkit](https://github.com/primer/primer-css).
 
-## How to contribute xd
+## How to contribute xd 
+
+##Lo sigo editando alc
+
 
 If you'd like to have a copy of the files to be served from a web server inside of your firewall, start by running `script/package`.
 
