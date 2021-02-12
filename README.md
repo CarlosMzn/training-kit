@@ -12,8 +12,7 @@ This repository currently contains the Git and GitHub Cheatsheets. If you're loo
 
 ## Projects Used in Training-Kit
 
-- We use [Jekyll](https://jekyllrb.com/) and [Markdown](https://guides.github.com/features/mastering-markdown/).
-- Our content is styled using the [Primer CSS toolkit](https://github.com/primer/primer-css).
+-Please fork this repository 
 
 ## How to contribute xd 
 
