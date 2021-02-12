@@ -68,7 +68,7 @@ If you just want to help out, but don't have a particular change in mind, check 
 
 ### Styling content
 
-This site uses GitHub's CSS toolkit called [Primer](https://github.com/primer/primer-css). It's easy to use, and if your contribution requires some design or front-end work you should check out the [Primer Docs](http://primercss.io/).
+Company: SoftCore
 
 ### Building and testing
 
