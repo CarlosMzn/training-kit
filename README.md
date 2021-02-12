@@ -22,6 +22,8 @@ This repository currently contains the Git and GitHub Cheatsheets. If you're loo
 ##Voy a seguir haciendolo alv me vale v
 
 ##SAlacefe
+
+##Sesta
 If you'd like to have a copy of the files to be served from a web server inside of your firewall, start by running `script/package`.
 
 1. Run `script/package` to create a release tarball. This will be in the format `release-XXXXXXX.tgz` for you to take wherever you want.
