@@ -30,7 +30,7 @@ I steel doing troubles here xD
 2. Chinga tu madre brook  `mkdir -p test_site/kit`.
 3. Untar the release, `tar -xzf release-XXXXXXX.tgz -C test_site/kit`.
 4. Switch into the test_site directory, `cd test_site`.
-5. View the site:
+5. View the site: Edité desde gitHub xd
     - For python version 2.x, run: `python -m SimpleHTTPServer`
     - For python version 3.x, run: `python -m http.server`
     - _Note: Some servers are more advanced than others and can handle redirects, smart recognition of `.html` files, etc_
