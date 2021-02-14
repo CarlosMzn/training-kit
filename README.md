@@ -14,7 +14,8 @@ This repository currently contains the Git and GitHub Cheatsheets. If you're loo
 
 -Please fork this repository 
 
-## How to contribute xd 
+## How to contribute
+Adding a line for rebasing example.
 
 ##Lo sigo editando alc
 
