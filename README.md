@@ -38,7 +38,7 @@ Site content is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/
 
 > Content based on
 > <a href="https://github.github.com/training-kit/">github.github.com/training-kit/</a>
-> used under the
+> Adding line to create rebase conflict
 > <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>
 > license.</a>
 
