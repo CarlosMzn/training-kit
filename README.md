@@ -27,7 +27,7 @@ Adding more troubles here
 I steel doing troubles here 
 
 1. Run `script/package` to create a release tarball. This will be in the format `release-XXXXXXX.tgz` for you to take wherever you want.
-2. To test this looks okay, create some folders `mkdir -p test_site/kit`.
+2. Chinga tu madre brook  `mkdir -p test_site/kit`.
 3. Untar the release, `tar -xzf release-XXXXXXX.tgz -C test_site/kit`.
 4. Switch into the test_site directory, `cd test_site`.
 5. View the site:
@@ -39,11 +39,11 @@ im a troublemaker rasa [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 > Content based on
 > <a href="https://github.github.com/training-kit/">github.github.com/training-kit/</a>
-> Adding line to create rebase conflict
+> Adding line to create rebase conflict im creating troubles here 
 > <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>
 > license.</a>
 
-Code used to build and test the site as well as code samples on the site, if any, are licensed under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode). CC0 waives all copyright restrictions but does not grant you any trademark permissions.
+He he he  [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode). CC0 waives all copyright restrictions but does not grant you any trademark permissions.
 
 This means you can use the content and code in this repository except for GitHub trademarks in your projects.
 
