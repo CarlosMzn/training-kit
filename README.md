@@ -17,13 +17,14 @@ more changes to rebase
 Adding a line for rebasing example.
 
 ##Lo sigo editando alc
+Adding more troubles here 
 
 ##Voy a seguir haciendolo alv me vale v
 
 ##SAlacefe
 
 ##El copyright
-If you'd like to have a copy of the files to be served from a web server inside of your firewall, start by running `script/package`.
+I steel doing troubles here 
 
 1. Run `script/package` to create a release tarball. This will be in the format `release-XXXXXXX.tgz` for you to take wherever you want.
 2. To test this looks okay, create some folders `mkdir -p test_site/kit`.
@@ -34,7 +35,7 @@ If you'd like to have a copy of the files to be served from a web server inside 
     - For python version 3.x, run: `python -m http.server`
     - _Note: Some servers are more advanced than others and can handle redirects, smart recognition of `.html` files, etc_
 
-Site content is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). CC-BY-4.0 gives you permission to use the content for almost any purpose but does not grant you any trademark permissions, so long as you note the license and give credit, such as follows:
+im a troublemaker rasa [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). CC-BY-4.0 gives you permission to use the content for almost any purpose but does not grant you any trademark permissions, so long as you note the license and give credit, such as follows:
 
 > Content based on
 > <a href="https://github.github.com/training-kit/">github.github.com/training-kit/</a>
