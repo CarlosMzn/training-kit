@@ -23,7 +23,7 @@ Adding more troubles here
 
 ##SAlacefe
 
-##El copyright
+##El copyright pal multiple stash 
 I steel doing troubles here xD 
 
 1. Run `script/package` to create a release tarball. This will be in the format `release-XXXXXXX.tgz` for you to take wherever you want.
