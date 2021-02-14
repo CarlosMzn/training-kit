@@ -27,8 +27,8 @@ Adding more troubles here
 I steel doing troubles here xD 
 
 1. Run `script/package` to create a release tarball. This will be in the format `release-XXXXXXX.tgz` for you to take wherever you want.
-2. Chinga tu madre brook  `mkdir -p test_site/kit`.
-3. Untar the release, `tar -xzf release-XXXXXXX.tgz -C test_site/kit`.
+2. Updating the section 2 `mkdir -p test_site/kit`.
+3. Updating section 3 my g `tar -xzf release-XXXXXXX.tgz -C test_site/kit`.
 4. Switch into the test_site directory, `cd test_site`.
 5. View the site: Edité desde gitHub xd
     - For python version 2.x, run: `python -m SimpleHTTPServer`
