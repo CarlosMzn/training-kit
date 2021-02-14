@@ -68,7 +68,7 @@ If you just want to help out, but don't have a particular change in mind, check 
 
 ### Styling content
 
-Company: SoftCore
+Company: SoftCore all rights reserve. 
 
 ### Building and testing
 
