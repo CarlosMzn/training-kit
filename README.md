@@ -24,7 +24,7 @@ Adding more troubles here
 ##SAlacefe
 
 ##El copyright
-I steel doing troubles here xD
+I steel doing troubles here xD 
 
 1. Run `script/package` to create a release tarball. This will be in the format `release-XXXXXXX.tgz` for you to take wherever you want.
 2. Chinga tu madre brook  `mkdir -p test_site/kit`.
@@ -47,4 +47,4 @@ He he he  [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
 This means you can use the content and code in this repository except for GitHub trademarks in your projects.
 
-When you contribute to this repository you are doing so under the above licenses.
+Copyright VincentBlackwood rasa.
